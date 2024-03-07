@@ -1,3 +1,6 @@
-ef fname(arg):
-    " hello world "
-    pass
+def hello(arg):
+    return arg
+
+print("hello")
+
+
